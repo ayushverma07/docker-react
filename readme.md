@@ -1,3 +1,3 @@
-## Heyyo everyone, welcome to my Git guide! 
+## Welcome to git 
 - Yo, Johnny here
-- I am adding this from 'dev-jsm' branch
+- This is coming from dev-ayush
